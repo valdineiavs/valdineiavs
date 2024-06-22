@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @valdineiavs
-- 👀 I’m interested in Technology
-- 🌱 Inowtly learning Data Science
-- 💞️ I’m lookingcollaboratingrate on a project involving artificial intelligence (AI)
-- 📫 How to reach me valdineiavs.ds@gmail.com
+👋 Hello, I am @valdineiavs
+👀 I have an interest in Technology
+🌱 Currently, I am learning Data Science
+💞️ I am seeking to collaborate on a project related to artificial intelligence (AI)
+📫 You can reach me at valdineiavs.ds@gmail.com
 
 
 <!---
